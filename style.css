@@ -132,8 +132,8 @@ h1 {
   align-self: flex-end;
 }
 .content p {
-  font-size: 0.8em;
-  line-height: 1.9;
+  font-size: 0.9rem;
+  line-height: 1.2;
 }
 .name:nth-child(2) {
   color: var(--Very-Dark-Magenta);
