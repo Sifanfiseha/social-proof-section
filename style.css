@@ -21,20 +21,21 @@ html {
 main {
   display: flex;
   flex-direction: column;
-  gap: 4rem;
+  gap: 4.5rem;
 }
 body {
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  font-family: sans-serif;
+  font-family: "League Spartan", serif;
 }
 h1 {
   font-size: 3rem;
   color: var(--Very-Dark-Magenta);
   font-weight: 700;
   line-height: 90%;
+  word-spacing: -5px;
 }
 .verified {
   color: var(--Soft-Pink);
@@ -56,7 +57,7 @@ h1 {
   flex-direction: column;
   gap: 2rem;
   color: var(--Very-Dark-Magenta);
-  padding-right: 4rem;
+  padding-right: 5rem;
 }
 .rates {
   align-self: center;
